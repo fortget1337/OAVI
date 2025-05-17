@@ -1,0 +1,18 @@
+File: voice_a
+Min freq: 86.1 Hz, Max freq: 3380.7 Hz
+Fundamental (median): 131.6 Hz
+Overtones: 526.5, 658.2
+Formants: 804.1, 2709.2, 4567.9 Hz
+
+File: voice_gav
+Min freq: 107.7 Hz, Max freq: 1248.9 Hz
+Fundamental (median): 216.9 Hz
+Overtones: 433.8, 650.7
+Formants: 608.8, 2298.1, 6059.7 Hz
+
+File: voice_i
+Min freq: 172.3 Hz, Max freq: 3596.0 Hz
+Fundamental (median): 234.2 Hz
+Overtones: 468.3
+Formants: 550.0, 2913.7, 4044.1 Hz
+
